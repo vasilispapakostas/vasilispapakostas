@@ -8,7 +8,7 @@ Most of what I build is robotics or web. Right now I'm working on a pick-and-pla
 
 ### Projects
 
-- **[Dobot Colour-Sorting Conveyor](https://github.com/vasilispapakostas/dobot-colour-sorting)**: sorts coloured cubes off a running conveyor using a photoelectric trigger, a colour sensor, and a suction end effector
+- **[Dobot Colour-Sorting Conveyor](https://github.com/vasilispapakostas/dobot-color-sorting)**: sorts coloured cubes off a running conveyor using a photoelectric trigger, a colour sensor, and a suction end effector
 - **[TechPodcasts](https://github.com/vasilispapakostas/techpodcasts)**: Django app for finding and reviewing tech podcasts, with auth, ownership rules, and star ratings
 - **[JARVIS](https://github.com/vasilispapakostas/jarvis)**: personal AI assistant that turns natural language requests into chained tool calls
 
