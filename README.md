@@ -1,4 +1,4 @@
-# Hey there 👋
+# Vasilis Papakostas
 
 I'm Vasilis, a Computing for Business student at DCU, based in Dublin.
 
