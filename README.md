@@ -8,7 +8,7 @@ Most of what I build is robotics, web, or data analysis. The common thread is tu
 
 ### Projects
 
-- **[UR5e Visual Servoing]([https://github.com/vasilispapakostas/UR5e-camera-control)**: closed-loop vision control for a UR5e industrial arm. ArUco markers for metric scale and pose, HSV segmentation for target detection, a proportional control loop, and safety interlocks for workspace limits, tool tilt and camera loss
+- **[UR5e Visual Servoing](https://github.com/vasilispapakostas/UR5e-camera-control)**: closed-loop vision control for a UR5e industrial arm. ArUco markers for metric scale and pose, HSV segmentation for target detection, a proportional control loop, and safety interlocks for workspace limits, tool tilt and camera loss
 - **[Customer Churn Dashboard](https://github.com/vasilispapakostas/customer-churn-dashboard)**: Streamlit dashboard that segments customers by contract, tenure and usage, ranks them by revenue at risk with Wilson confidence intervals, and works out whether a retention campaign pays for itself
 - **[Dobot Colour-Sorting Conveyor](https://github.com/vasilispapakostas/dobot-color-sorter)**: sorts coloured cubes off a running conveyor using a photoelectric trigger, a colour sensor, and a suction end effector
 - **[TechPodcasts](https://github.com/vasilispapakostas/techpodcasts)**: Django app for finding and reviewing tech podcasts, with auth, ownership rules, and star ratings
