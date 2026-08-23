@@ -24,6 +24,6 @@ Most of what I build is robotics, web, or data analysis. The common thread is tu
 
 - 🇮🇪🇬🇷 Irish and Greek, fluent in both, conversational French
 - 📚 Reading through the Scott Snyder Batman run
-- 🤖 I like the bit where software makes something physical move
+- 🧩 I enjoy breaking down messy business problems and figuring out where technology can make the biggest difference.
 
 [LinkedIn](https://www.linkedin.com/in/vasileios-papakostas/) · papakostas.n.vasilis@gmail.com
