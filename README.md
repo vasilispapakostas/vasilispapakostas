@@ -4,8 +4,6 @@ Computing for Business student at DCU, based near Dublin.
 
 I spent this summer as an Undergraduate Research Assistant at UCD's Laboratory for Intelligent Manufacturing and Robotics, programming and debugging Dobot Magician and UR5e arms in Python. Alongside that I worked as an operator at a medical device manufacturer, using SAP to record production and quality data in a GMP-controlled environment.
 
-Most of what I build is robotics, web, or data analysis. The common thread is turning something messy into something that runs.
-
 ### Projects
 
 - **[UR5e Visual Servoing](https://github.com/vasilispapakostas/UR5e-camera-control)**: closed-loop visual servoing prototype for a UR5e industrial arm, using ArUco markers for metric scale, HSV segmentation for target detection, a proportional control loop, and safety checks for movement limits, tool tilt and camera loss
@@ -24,6 +22,6 @@ Most of what I build is robotics, web, or data analysis. The common thread is tu
 
 - 🇮🇪🇬🇷 Irish and Greek, fluent in both, conversational French
 - 📚 Reading through the Scott Snyder Batman run
-- 🧩 I enjoy breaking down messy business problems and figuring out where technology can make the biggest difference.
+- 🧩 I enjoy breaking down problems and figuring out where technology can make the biggest difference.
 
 [LinkedIn](https://www.linkedin.com/in/vasileios-papakostas/) · papakostas.n.vasilis@gmail.com
