@@ -21,7 +21,6 @@ I spent this summer as an Undergraduate Research Assistant at UCD's Laboratory f
 ### A Bit About Me
 
 - 🇮🇪🇬🇷 Irish and Greek, fluent in both, conversational French
-- 📚 Reading through the Scott Snyder Batman run
 - 🧩 I enjoy breaking down problems and figuring out where technology can make the biggest difference.
 
 [LinkedIn](https://www.linkedin.com/in/vasileios-papakostas/) · papakostas.n.vasilis@gmail.com
